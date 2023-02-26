@@ -1,0 +1,4 @@
+GET http://localhost:5700
+
+###display all data
+GET http://localhost:5700/company
